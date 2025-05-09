@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CH9</string>
+
+    <string name="runner1">選手 1</string>
+    <string name="runner2">選手 2</string>
+    <string name="runner3">選手 3</string>
+
+    <string name="desc_runner1">穩定型：速度平均穩定</string>
+    <string name="desc_runner2">爆發型：有機會突然加速</string>
+    <string name="desc_runner3">不穩定型：慢但偶爾狂飆</string>
+
+    <string name="guess_title">請猜誰會贏？</string>
+    <string name="guess1">選手 1</string>
+    <string name="guess2">選手 2</string>
+    <string name="guess3">選手 3</string>
+
+    <string name="start_race">開始比賽</string>
+    <string name="score_label">分數：%1$d</string>
+    <string name="win_correct">你猜對了！%1$s 勝利 🎉</string>
+    <string name="win_wrong">很可惜，%1$s 贏了</string>
+</resources>
